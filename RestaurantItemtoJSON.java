@@ -1,10 +1,10 @@
-import java.util.Scanner;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
+import java.util.Scanner;
 
-import org.json.JSONObject;
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 public class RestaurantItemtoJSON { 
   
@@ -14,6 +14,7 @@ public class RestaurantItemtoJSON {
     * Adds each of the restaurant's items as a JSONObject in a JSONArray to a JSONObject
     * Writes the JSONObject to the textfile as a String  */
   public static void addNewRestaurantText() { 
+    
     System.out.println("Enter restaurant name: ");
     final String restaurantName = theScanner.nextLine();
     
@@ -29,8 +30,10 @@ public class RestaurantItemtoJSON {
       boolean toContinue = true;
       
       while(toContinue) { 
+        
         //Raw menu item, format ex. "Egg and Cheese$3.25Served on a roll."
-        final String line = theScanner.nextLine();
+        System.out.println("Enter line(s) of items");
+        final String line = theScanner.nextLine().replace("+", "");
         
         //End loop
         if(line.equals("end")) { 
