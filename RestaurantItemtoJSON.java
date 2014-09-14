@@ -1,10 +1,7 @@
 import java.util.Scanner;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
+import java.io.FileWriter;
 
 import org.json.JSONObject;
 import org.json.JSONArray;
@@ -47,9 +44,13 @@ public class RestaurantItemtoJSON {
         restaurantItem.put("description", itemDescription);
         
         restaurantItems.put(restaurantItem);
-        
       }
       
+      restaurant.put("items", restaurantItems);
+      
+      BufferedWriter output = new BufferedWriter(new FileWriter(theFile));
+      output.write(restaurant.toString());
+      output.close();
     }
     catch(Exception e) { 
       e.printStackTrace();
