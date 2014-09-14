@@ -79,12 +79,12 @@ public class RestaurantItemtoJSON {
     //For adding a new restaurant and all of its items to a text file
     //addNewRestaurantText();
     
-    String line = "Egg and Cheese$3.25Served on a roll."; //theScanner.nextLine();
-    //final double cost = Double.parseDouble(line.replaceAll("[^0-9.]+", ""));
-    //System.out.println(cost);
-    System.out.println(line.replaceAll("[.^0-9]+", ""));
+    final String line = theScanner.nextLine().replace("\n", "");
+    final String itemAndDescription = line.replaceAll("[.^0-9]+", "");
+    final String item = itemAndDescription.substring(0, itemAndDescription.indexOf("$"));
+    final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
     final String subCost = line.replaceAll("[^.0-9]+", "");
     final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
-    System.out.println(cost);
+    System.out.println(item + " " + description + " " + cost);
   }
 }
