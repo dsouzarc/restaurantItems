@@ -52,7 +52,8 @@ public class RestaurantItemtoJSON {
           final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
           
           //Cost of item
-          final String subCost = lineItem.replaceAll("[^.0-9]+", "");
+          final String subCost = lineItem.replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
+          System.out.println("SUBCOST: " + subCost);
           final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
           
           //Create a JSONObject for each item with the following fields
