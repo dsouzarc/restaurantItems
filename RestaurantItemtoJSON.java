@@ -8,13 +8,12 @@ import org.json.JSONArray;
 
 public class RestaurantItemtoJSON { 
   
+  private static final Scanner theScanner = new Scanner(System.in);
+  
   /** Creates a new textfile with the restaurant's name
     * Adds each of the restaurant's items as a JSONObject in a JSONArray to a JSONObject
     * Writes the JSONObject to the textfile as a String  */
   public static void addNewRestaurantText() { 
-    
-    final Scanner theScanner = new Scanner(System.in);
-    
     System.out.println("Enter restaurant name: ");
     final String restaurantName = theScanner.nextLine();
     
@@ -78,6 +77,14 @@ public class RestaurantItemtoJSON {
   
   public static void main(String[] ryan) { 
     //For adding a new restaurant and all of its items to a text file
-    addNewRestaurantText();
+    //addNewRestaurantText();
+    
+    String line = "Egg and Cheese$3.25Served on a roll."; //theScanner.nextLine();
+    //final double cost = Double.parseDouble(line.replaceAll("[^0-9.]+", ""));
+    //System.out.println(cost);
+    System.out.println(line.replaceAll("[.^0-9]+", ""));
+    final String subCost = line.replaceAll("[^.0-9]+", "");
+    final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
+    System.out.println(cost);
   }
 }
