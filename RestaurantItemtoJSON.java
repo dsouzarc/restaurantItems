@@ -61,6 +61,8 @@ public class RestaurantItemtoJSON {
           restaurantItem.put("price", String.valueOf(cost));
           restaurantItem.put("description", description);
           
+          System.out.println("Item: " + item + "\tCost: $" + cost + "\tDescription: " + description);
+          
           //Add each restaurant item to the Menu
           menu.put(restaurantItem);
         }
