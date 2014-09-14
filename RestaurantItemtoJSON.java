@@ -29,34 +29,38 @@ public class RestaurantItemtoJSON {
       boolean toContinue = true;
       
       while(toContinue) { 
+        //Raw menu item, format ex. "Egg and Cheese$3.25Served on a roll."
+        final String line = theScanner.nextLine();
         
-        //Get the item name
-        System.out.println("Enter item name: ");
-        final String itemName = theScanner.nextLine();
-        
-        //If the name is end, stop adding items
-        if(itemName.equals("end")) { 
+        //End loop
+        if(line.equals("end")) { 
           toContinue = false;
           break;
         }
         
-        //Item cost
-        System.out.println("Item cost: ");
-        final double itemCost = 
-          Double.parseDouble(theScanner.nextLine().replace("$", "").replace("+", ""));
+        //If there are multiple items separated by a line
+        final String[] lineItems = line.split("\n");
         
-        //Item description
-        System.out.println("Item description: ");
-        final String itemDescription = theScanner.nextLine();
-        
-        //Create a JSONObject for each restaurant item with the following fields
-        final JSONObject restaurantItem = new JSONObject();
-        restaurantItem.put("name", itemName);
-        restaurantItem.put("price", String.valueOf(itemCost));
-        restaurantItem.put("description", itemDescription);
-        
-        //Add each restaurant item to the Menu
-        menu.put(restaurantItem);
+        for(String lineItem : lineItems) { 
+          
+          //Item and description
+          final String itemAndDescription = lineItem.replaceAll("[.^0-9]+", "");
+          final String item = itemAndDescription.substring(0, itemAndDescription.indexOf("$"));
+          final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
+          
+          //Cost of item
+          final String subCost = lineItem.replaceAll("[^.0-9]+", "");
+          final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
+          
+          //Create a JSONObject for each item with the following fields
+          final JSONObject restaurantItem = new JSONObject();
+          restaurantItem.put("name", item);
+          restaurantItem.put("price", String.valueOf(cost));
+          restaurantItem.put("description", description);
+          
+          //Add each restaurant item to the Menu
+          menu.put(restaurantItem);
+        }
       }
       
       //Add the menu (array) to the restaurant JSONObject
@@ -77,14 +81,6 @@ public class RestaurantItemtoJSON {
   
   public static void main(String[] ryan) { 
     //For adding a new restaurant and all of its items to a text file
-    //addNewRestaurantText();
-    
-    final String line = theScanner.nextLine().replace("\n", "");
-    final String itemAndDescription = line.replaceAll("[.^0-9]+", "");
-    final String item = itemAndDescription.substring(0, itemAndDescription.indexOf("$"));
-    final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
-    final String subCost = line.replaceAll("[^.0-9]+", "");
-    final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
-    System.out.println(item + " " + description + " " + cost);
+    addNewRestaurantText();
   }
 }
