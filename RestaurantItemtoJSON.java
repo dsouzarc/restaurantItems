@@ -54,10 +54,11 @@ public class RestaurantItemtoJSON {
             final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
             
             //Cost of item
-            //Find all digits and decimal point, replace extra spaces, replace all periods with a space, 
+            //Find all digits and decimal point after first four chars, replace extra spaces, replace all periods with a space, 
             //remove all spaces before and after number, replace last space with decimal point
-            final String subCost = lineItem.replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
-            System.out.println("SUBCOST: " + subCost);
+            final String subCost = lineItem.substring(4).
+              replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
+            //System.out.println("SUBCOST: " + subCost);
             final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
             
             //Create a JSONObject for each item with the following fields
