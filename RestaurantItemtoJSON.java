@@ -46,28 +46,33 @@ public class RestaurantItemtoJSON {
         
         for(String lineItem : lineItems) { 
           
-          //Item and description
-          final String itemAndDescription = lineItem.replaceAll("[.^0-9]+", "");
-          final String item = itemAndDescription.substring(0, itemAndDescription.indexOf("$"));
-          final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
-          
-          //Cost of item
-          //Find all digits and decimal point, replace extra spaces, replace all periods with a space, 
-          //remove all spaces before and after number, replace last space with decimal point
-          final String subCost = lineItem.replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
-          System.out.println("SUBCOST: " + subCost);
-          final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
-          
-          //Create a JSONObject for each item with the following fields
-          final JSONObject restaurantItem = new JSONObject();
-          restaurantItem.put("name", item);
-          restaurantItem.put("price", String.valueOf(cost));
-          restaurantItem.put("description", description);
-          
-          System.out.println("Item: " + item + "\tCost: $" + cost + "\tDescription: " + description);
-          
-          //Add each restaurant item to the Menu
-          menu.put(restaurantItem);
+          try { 
+            
+            //Item and description
+            final String itemAndDescription = lineItem.replaceAll("[.^0-9]+", "");
+            final String item = itemAndDescription.substring(0, itemAndDescription.indexOf("$"));
+            final String description = itemAndDescription.substring(itemAndDescription.indexOf("$") + 1);
+            
+            //Cost of item
+            //Find all digits and decimal point, replace extra spaces, replace all periods with a space, 
+            //remove all spaces before and after number, replace last space with decimal point
+            final String subCost = lineItem.replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
+            System.out.println("SUBCOST: " + subCost);
+            final double cost = Double.parseDouble(subCost.substring(0, subCost.length() - 1));
+            
+            //Create a JSONObject for each item with the following fields
+            final JSONObject restaurantItem = new JSONObject();
+            restaurantItem.put("name", item);
+            restaurantItem.put("price", String.valueOf(cost));
+            restaurantItem.put("description", description);
+            
+            System.out.println("Item: " + item + "\tCost: $" + cost + "\tDescription: " + description);
+            
+            //Add each restaurant item to the Menu
+            menu.put(restaurantItem);
+          }
+          catch(Exception e) { 
+          }
         }
       }
       
