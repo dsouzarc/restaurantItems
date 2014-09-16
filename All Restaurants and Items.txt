@@ -99,6 +99,7 @@ Eggplant Parmigiana and Spaghetti$9.00Served with garlic bread.
 Quarter Chicken Breast$5.25Served with one hot side order and a roll.
 Quarter Chicken Leg$4.75Served with one hot side order and a roll.
 Grilled Chicken Penne Alfredo$8.00Served with garlic bread.
+
 George's Specials
 Grilled Chicken Wrap$6.50Chicken, lettuce, tomato, chipotle ranch and a cold side.
 Veggie Wrap$6.50Veggie burger, lettuce, tomato, chipotle ranch and a cold side.
@@ -168,6 +169,7 @@ Fresh Brewed Iced Tea$2.59
 Chocolate Milk$2.75
 Shake$3.79+
 Malt$3.79+
+
 Salad
 Grilled Portobello and Chicken Salad$11.49Now you don't have to choose between two of your favorites. Includes a generous spring mix of chopped romaine and a collection of fresh baby greens.
 Grilled Chicken Breast Salad$10.49Deliciously grilled chicken breast strips. Includes a generous spring mix of chopped romaine and a collection of fresh baby greens.
@@ -178,15 +180,17 @@ Fried Chicken Breast Salad$10.49Lightly fried chicken breast strips. Includes a 
 Cheeburger Cheeburger Salad$10.49Topped with a quarter pound of our natural Angus beef, included with your choice of cheese. Includes a generous spring mix of chopped romaine and a collection of fresh baby greens.
 Salad Lover's Salad$8.49Includes a generous spring mix of chopped romaine and a collection of fresh baby greens.
 Side Salad$3.99The perfect size, the perfect complement to any Cheeburger meal. Mixed greens with black olives, shredded Jack and cheddar, grape tomatoes and garlic croutons. Your choice of dressing.
+
 Cheeseburgers
-The Delirious Burger$9.4914 oz burger.
-The Serious Burger$7.9910 oz. burger.
-The Semi-Serious Burger$6.997 oz burger.
-The Classic Burger$5.995.5 oz burger.
-The Pounder Burger$11.4920 oz burger
+The Delirious Burger$9.49Fourteen oz burger.
+The Serious Burger$7.99Ten oz. burger.
+The Semi-Serious Burger$6.99Seven oz burger.
+The Classic Burger$5.99Five and a half oz burger.
+The Pounder Burger$11.49Twenty oz burger
 Salmon Burger$8.49
 Veggie Burger$7.99
 Turkey Burger$7.49
+
 Wrap Or Sandwich
 My Bleu Chicken$8.49
 Grilled Portobello Mushroom Sandwich$7.99
@@ -195,29 +199,35 @@ Grilled Cheese Sandwich$5.49
 BLT$5.99Comes with bacon, lettuce and tomato on your choice of bread.
 Fried Chicken Finger Sandwich$7.49
 Chicken Finger Basket$7.49Large fried chicken fingers served in a basket.
+
 Melts
 Patty Melt$8.49A full 1/2 pounder. Comes with Swiss cheese and sauteed onions on rye bread.
 Grilled Chicken Melt$8.49Comes with Swiss cheese and sauteed onions on rye bread.
 Grilled Portobello Mushroom Melt$8.49Comes with Swiss cheese and sauteed onions on rye bread.
+
 Cheedog
 CheeDog$5.99A ten-inch, quarter-pound, all beef, gourmet hot dog. Comes with your choice of cheese and free toppings. Grilled or cooked in high-grade peanut oil.
+
 CheePlatter CheePlatter
-Natural Angus Platter$10.99Fresh, never frozen 10 oz. patty. Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
+Natural Angus Platter$10.99Fresh, never frozen Ten oz. patty. Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Chicken Breast Platter$10.99Succulent grilled chicken breast. Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Portobello Platter$10.99A healthy portion of portobello mushroom. Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Turkey Burger Platter$10.99Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Chicken Finger Platter$10.99Comes with a generous portion of chicken fingers and your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Veggie Burger Platter$10.99Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
 Salmon Platter$11.49Comes with your choice of cheese and toppings, fries or rings, sauteed onions and a choice of side salad or coleslaw.
+
 Fries and Rings
 Original Fries$2.99+We leave the skins on so they're as natural as can be.
 Original Rings$3.99+They're dipped in our secret batter.
 Sweet Potato Fries$3.99+
 Best of Both Basket$3.99+A combination of our famous fries and rings.
 Loaded Fries$5.99+
+
 Dipping Sauce
 Dipping Sauce$0.99
 Combination 5 Dipping Sauces$3.99
+
 Kids Meals
 The Jr. Classic$5.49A smaller version of our famous Classic Cheeburger. Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
 Hot Dogs!$5.49Two 100% Black Angus beef mini hot dogs. Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
@@ -227,6 +237,7 @@ The Kickin Chicken$5.49Large chicken fingers with your choice of BBQ sauce, hone
 Grilled Chicken Breast Sandwich$5.49Comes with your choice of cheese and toppings. Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
 Chicken Tender Sandwich$5.49Comes with your choice of cheese and toppings. Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
 Peanut Butter & Jelly$5.49Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
+
 Dessert
 Ice Cream Soda$4.49
 Float$4.49
@@ -238,119 +249,44 @@ Old Fashioned Egg Cream$2.99A nostalgic taste that your grandfather remembers. S
 
 
 
-
-
-
-
-
-
-
-
-
-Contes
-Pizza
-Toppings: Pepperoni, Sausage, Onions, Mushrooms, Peppers, Garlic, Black Olives, Anchovies, *special : Everything But Anchovies And Olives
-Build Your Own
-Small Plain
-10.60
-Large
-21.50
-
-Sandwiches
-(all Sandwiches $6.50, Add $1 For Cheese And $0.50 For Fried Toppings)
-Meatball
-W/ cheese
-Sausage
-W/ cheese
-Steak Sandwich
-W/ cheese or fried onions, mushrooms, and peppers
-Italian Hoagie
-
-Sides
-Meatballs 4.00
-Sausage 4.00
-Salad
-House Vinaigrette 4.50
-French 4.50
-Blue Cheese 4.50
-Russian 4.50
-Pasta
-The Pasta Comes In A Small Or Regular Portion, Both Come With A House Salad And Bread. (small $9 W/ Meat $11 , Large $11 W/ Meat $13)
-Spaghetti
-W/ meatball or sausage
-Penne
-W/ meatball or sausage
-
-
-
-
-
-
-
-
-
 Teresasa 
 Antipasti
-MINESTRONE$6.00
-seasonal vegetable soup.
-MISTO DI FAGIOLI E OLIVA$5.00
-kalamata olive tapenade, white bean puree, spiced olives.
-ANTIPASTO MISTO$13.00
-assortment of artisanal cured salumi and formaggi, spiced olives, membrillo.
-MOZZARELLA DI BUFALA$12.00
-prosciutto di parma, roasted red peppers, spiced olives.
+MINESTRONE$6.00Seasonal vegetable soup.
+MISTO DI FAGIOLI E OLIVA$5.00Kalamata olive tapenade, white bean puree, spiced olives.
+ANTIPASTO MISTO$13.00Assortment of artisanal cured salumi and formaggi, spiced olives, membrillo.
+MOZZARELLA DI BUFALA$12.00Prosciutto di parma, roasted red peppers, spiced olives.
+
 Insalate
-FARRAUTO$10.00
-spinach, apples, gorgonzola cheese, toasted pine nuts, balsamic vinaigrette.
-POLLO E ORZO$13.00
-mixed greens, grilled natural chicken, orzo, red onions, marinated olives, ricotta salata, sun-dried tomato vinaigrette.
-RUCOLA$11.00
-arugula, roasted beets, marcona almonds, orange supreme, goat cheese, passion fruit vinaigrette.
-CESARE$8.00
-romaine, evoo, lemon, garlic and anchovy dressing, croutons.
-CESARE$12.00
-with grilled natural chicken or shrimp.
-POLLO BALSAMICO BIANCO$14.00
-mixed greens, grilled natural chicken, red onions, fennel, grape tomatoes, grana padano, kalamata olives, white balsamic vinaigrette, organic evoo.
+FARRAUTO$10.00Spinach, apples, gorgonzola cheese, toasted pine nuts, balsamic vinaigrette.
+POLLO E ORZO$13.00Mixed greens, grilled natural chicken, orzo, red onions, marinated olives, ricotta salata, sun-dried tomato vinaigrette.
+RUCOLA$11.00Arugula, roasted beets, marcona almonds, orange supreme, goat cheese, passion fruit vinaigrette.
+CESARE$8.00Romaine, evoo, lemon, garlic and anchovy dressing, croutons.
+CESARE$12.00With grilled natural chicken or shrimp.
+POLLO BALSAMICO BIANCO$14.00Mixed greens, grilled natural chicken, red onions, fennel, grape tomatoes, grana padano, kalamata olives, white balsamic vinaigrette, organic evoo.
+
 Panini
-SALUMI$10.00
-prosciutto cotto, fontina and goat cheese, balsamic onions, pressed flat bread.
-PIADINA CECI$10.00
-roasted red peppers, garbanzo bean puree, goat cheese, arugula, pressed flat bread.
-SALMONE$11.00
-scottish salmon, olive tapanade, tomatoes, red onion, mixed greens, schiacciata.
-FUNGHI$9.00
-marinated portobello mushrooms, sun dried tomato pesto, smoked gouda cheese, spinach, pressed ciabatta.
+SALUMI$10.00Prosciutto cotto, fontina and goat cheese, balsamic onions, pressed flat bread.
+PIADINA CECI$10.00Roasted red peppers, garbanzo bean puree, goat cheese, arugula, pressed flat bread.
+SALMONE$11.00Scottish salmon, olive tapanade, tomatoes, red onion, mixed greens, schiacciata.
+FUNGHI$9.00Marinated portobello mushrooms, sun dried tomato pesto, smoked gouda cheese, spinach, pressed ciabatta.
+
 Pizzette
-MARGHERITA$11.00
-ground plum tomatoes, fresh mozzarella, organic evoo, basil.
-PERFETTA$14.00
-fontina, prosciutto di parma, arugula, grana padano, lemon zest, organic evoo.
-FICO$15.00
-ricotta, calimyrna fig marmalade, organic smoked bacon, brie.
-ESTIVA$15.00
-ricotta, ramps, green garlic, guanciale, hen of the woods mushrooms, grana padano.
-ACCIUGA$14.00
-ground plum tomatoes, anchovies, caramelized fennel, mozzarella, chili flakes.
-INSALATA DI PIZZA$15.00
-mozzarella, grilled natural chicken, mixed greens, diced tomatoes, red onions, balsamic vinaigrette.
-SALSICCIA$16.00
-ground plum tomatoes, organic pork sausage, broccoli rabe, hot cherry peppers, burrata cheese.
+MARGHERITA$11.00Ground plum tomatoes, fresh mozzarella, organic evoo, basil.
+PERFETTA$14.00Fontina, prosciutto di parma, arugula, grana padano, lemon zest, organic evoo.
+FICO$15.00Ricotta, calimyrna fig marmalade, organic smoked bacon, brie.
+ESTIVA$15.00Ricotta, ramps, green garlic, guanciale, hen of the woods mushrooms, grana padano.
+ACCIUGA$14.00Ground plum tomatoes, anchovies, caramelized fennel, mozzarella, chili flakes.
+INSALATA DI PIZZA$15.00Mozzarella, grilled natural chicken, mixed greens, diced tomatoes, red onions, balsamic vinaigrette.
+SALSICCIA$16.00Ground plum tomatoes, organic pork sausage, broccoli rabe, hot cherry peppers, burrata cheese.
+
 Pasta
-PENNE ALL' ARRABBIATA$12.00
-plum tomatoes, garlic, peperoncino, basil.
-PENNE ALL' ARRABBIATA$16.00
-with natural chicken or shrimp.
-LINGUINE VONGOLE$16.00
-littleneck and chopped clams, garlic, organic evoo, red pepper flakes, scallions, white wine.
-PENNE INTEGRALE$16.00
-whole wheat pasta, roasted eggplant, low fat ricotta, plum tomatoes, basil.
-LASAGNA BOLOGNESE$18.00
-cogf beef, plum tomatoes, fresh herbs, mozzarella, bechamel.
-PENNE PECORINO$18.00
-sea scallops, shrimp, plum tomatoes, spinach, roasted garlic, pecorino cheese.
-CONCHIGLIE BALSAMICO$16.00
-natural chicken, asparagus, balsamic reduction, cream.
+PENNE ALL ARRABBIATA$12.00Plum tomatoes, garlic, peperoncino, basil.
+PENNE ALL ARRABBIATA$16.00With natural chicken or shrimp.
+LINGUINE VONGOLE$16.00Littleneck and chopped clams, garlic, organic evoo, red pepper flakes, scallions, white wine.
+PENNE INTEGRALE$16.00Whole wheat pasta, roasted eggplant, low fat ricotta, plum tomatoes, basil.
+LASAGNA BOLOGNESE$18.00Cogf beef, plum tomatoes, fresh herbs, mozzarella, bechamel.
+PENNE PECORINO$18.00Sea scallops, shrimp, plum tomatoes, spinach, roasted garlic, pecorino cheese.
+CONCHIGLIE BALSAMICO$16.00Natural chicken, asparagus, balsamic reduction, cream.
 
 
 
@@ -368,54 +304,33 @@ natural chicken, asparagus, balsamic reduction, cream.
 
 
 
-SLice
-Antipasto
-10.00
-Fresh Mozzarella, Crumbled Greek Feta, Genoa Salami, Prosciutto Ham, Artichoke Hearts, Red Peppers, Pepperoncini over Romaine Lettuce.
-Prasini Salad
-5.00
-Finely sliced Romaine Lettuce, Red Onions, Grape Tomatoes, Crumbled Feta Cheese, Dill, Kalamata Olives, Greek Lemon Dressing.
-Arugula Salad
-5.00
+Slice
+Antipasto$10.00Fresh Mozzarella, Crumbled Greek Feta, Genoa Salami, Prosciutto Ham, Artichoke Hearts, Red Peppers, Pepperoncini over Romaine Lettuce.
+Prasini Salad$5.00Finely sliced Romaine Lettuce, Red Onions, Grape Tomatoes, Crumbled Feta Cheese, Dill, Kalamata Olives, Greek Lemon Dressing.
+Arugula Salad$5.00
 Baby Arugula, Red Onions, Crumbled Blue Cheese, Grape Tomatoes, Balsamic Vinaigrette.
-Slice Between Salad
-4.007.75
-Romaine Lettuce, Grape Tomatoes, Kalamata Olives, Red Onion. With Chicken Breast (7.75)
-Garlic Bread Pizza
-7.50
-Old World Dough made with Olive Oil, Fresh Garlic, Grated Cheese and Herbs
+Slice Between Salad Small$7.75Romaine Lettuce, Grape Tomatoes, Kalamata Olives, Red Onion. With Chicken Breast
+Garlic Bread Pizza$7.50Old World Dough made with Olive Oil, Fresh Garlic, Grated Cheese and Herbs
 
 Pizza
-Calzone
-8.50
-Stuffed with Mozzarella and Ricotta Cheeses. (Add additional toppings from list)
-Stromboli
-8.50
-Pepperoni, Sweet Italian Sausage, Prosciutto Ham, Red Onions and Fresh Mozzarella.
-Margherita Margaro Pizza
-11.0015.00
-Fresh Mozzarella, Tomato Sauce, Fresh Basil.
-Greek Horiatiki Pizza
-13.0018.00
-Fresh Mozzarella, Crumbled Feta, Kalamata Olives, Pepperoncini.
-Niko's Pizza
-14.0019.00
-Arugula, Prosciutto, Fresh Mozzarella.
-Buffalo Chicken Pizza
-14.0019.00
-Chicken Breast, Fresh Mozzarella, Olive Oil, Special Sauce
+Calzone$8.50Stuffed with Mozzarella and Ricotta Cheeses. (Add additional toppings from list)
+Stromboli$8.50Pepperoni, Sweet Italian Sausage, Prosciutto Ham, Red Onions and Fresh Mozzarella.
+Margherita Margaro PizzaSmall$11.00Fresh Mozzarella, Tomato Sauce, Fresh Basil.
+Margherita Margaro Pizza Large15.00Fresh Mozzarella, Tomato Sauce, Fresh Basil.
+Greek Horiatiki Pizza Small$13.00Fresh Mozzarella, Crumbled Feta, Kalamata Olives, Pepperoncini.
+Greek Horiatiki Pizza Large$18.00Fresh Mozzarella, Crumbled Feta, Kalamata Olives, Pepperoncini.
+Niko's Pizza Small $14.00Arugula, Prosciutto, Fresh Mozzarella.
+Niko’s Pizza Large $18.00Arugula, Prosciutto, Fresh Mozzarella.
+Buffalo Chicken Pizza Small $14.00Chicken Breast, Fresh Mozzarella, Olive Oil, Special Sauce
+Buffalo Chicken Pizza Large $19.00Chicken Breast, Fresh Mozzarella, Olive Oil, Special Sauce
 
-Sanchez Pizza
-15.0020.00
-Chicken Cutlet, Fresh Mozzarella, Mozzarella Sticks, Hoagie Haven Sanchez Sauce.
-Bianca Pizza
-13.0018.00
-Ricotta Cheese, Olive Oil, Fresh Basil.
+Sanchez Pizza$15.00Chicken Cutlet, Fresh Mozzarella, Mozzarella Sticks, Hoagie Haven Sanchez Sauce.
+Sanches Pizza$20.00Chicken Cutlet, Fresh Mozzarella, Mozzarella Sticks, Hoagie Haven Sanchez Sauce.
+Bianca Pizza$13.00Ricotta Cheese, Olive Oil, Fresh Basil.
+Bianca Pizza $18.00Ricotta Cheese, Olive Oil, Fresh Basil.
 
 Desserts
-Isabel's Nutella Pizza
-8.00
-Nutella, Sliced Bananas, Powdered Sugar.
+Isabel's Nutella Pizza$8.00Nutella, Sliced Bananas, Powdered Sugar.
 
 
 
@@ -424,13 +339,106 @@ Nutella, Sliced Bananas, Powdered Sugar.
 
 
 
+Taste of Mexico
+Appetizers
+NACHOS$7.95(add two dollars for chicken or beef).
+GUACAMOLE WITH CHIPS & SALSA$7.95
+PICO DE GALLO WITH CHIPS$6.95
+FRENCH FRIES WITH CHEESE$5.95
+
+Salads
+ENSALADA DEL REY$8.95King's salad-lettuce, onions, carrots, & tomatoes, with chicken of beef.
+ENSALADA MEXICANA$7.95Mexican salad-lettuce, tomatoes, onions, & avocado
+ENSALADA RANCHERA$7.95Ranchera salad-lettuce, tomatoes, cucumber, & avocado
+
+Tacos
+Three TACOS DE POLLO$7.95Chicken Tacos
+Three TACOS DE RES$7.95Shredded Beef Tacos
+Three TACOS DE CHORIZO$7.95Sausage Tacos
+Three TACOS AL PASTOR$7.95Marinated Pork Tacos
+
+Burritos
+BURRITO DE RES$7.95Beef burrito with rice, beans, and cheese
+BURRITO DE POLLO$7.95Chicken burrito with rice, beans, and cheese
+BURRITO ESPECIAL AL PASTOR$8.95Pork burrito
+BURRITO ESPECIAL AL DE CHORIZO$8.95Mexican sausage burrito
+
+Quesadillas
+QUESADILLA DE RES$7.95Beef Burrito
+QUESADILLA DE POLLO$7.95Chicken Burrito
+QUESADILLA DE CHORIZO$8.95Pork quesadilla
+QUESADILLA DE PASTOR$8.95Sausage quesadilla
+SINCRONIZADA$7.95Ham quesadilla
+
+Mexican Platters
+MOLE OAXAQUENO$9.95Grilled chicken breast w/ mole sauce. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+CHILES RELLENOS$9.95Stuffed peppers. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+PECHUGA EMPANIZADA$9.95Breaded Chicken Breast. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+BISTEC ENTOMATADO$9.95.Steak with fried tomatoes. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+FAJITAS$9.95(Chicken, Beef, or Shrimp) Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+BISTEC EMPANIZADO$9.95Breaded steak .Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+BISTEC ENCEBOLLADO$9.95Steak with onions. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+BISTEC A LA MEXICANA$9.95Steak with onions, tomatoes, and peppers. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+BISTEC ASADO$9.95Grilled chicken. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+CARNE ENCHILADA$9.95Pork steak. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+PECHUGA A LA MEXICANA$9.95Grilled chicken w/ tomatoes, onions, & hot peppers. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+ENCHILADAS VERDES$9.953 chicken enchiladas with green sauce, cilantro, onions, & tomatoes. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+ENCHILADAS ROJAS$9.953 chicken enchiladas w/ red or mole sauce w/ cilantro, onions, & tomatoes. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+QUESADILLA ESPECIAL CON$9.95Vegetables y pollo, o carne asada. Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
+
+Vegetarian Platters
+BURRITO (SPECIAL)$6.95With rice, beans, and cheese. Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+VEGETABLE BURRITO$7.95With rice, beans, & cheese. Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+VEGETABLE QUESADILLA$9.95Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+Three VEGETABLE TOSTADAS$9.95Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+VEGETABLE FAJITAS$9.95With rice and beans. Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+Three VEGETABLES ENCHILADAS$9.95With rice and beans. Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+Three CHEESE ENCHILADAS$9.95. With rice and beans. Served with lettuce, tomatoes, onions, mexican cheese, & sour cream.
+
+Tostadasy Y Flautas
+Three TOSTADAS DE RES O POLLO$9.95Beef or chicken tostadas. Served with rice, beans, chips & salsa.
+Three TOSTADAS DE CHORIZO$9.95Sausage tostadas. Served with rice, beans, chips & salsa.
+Three TOSTADAS AL PASTOR$9.95Marinated pork tostadas. Served with rice, beans, chips & salsa.
+Four FLAUTAS DE POLLO$9.95Rolled corn shells with chicken. Served with rice, beans, chips & salsa.
+
+Shrimp Platters
+CAMARONES CON VEGETALES$9.95Shrimps with vegetables. Served with rice, beans, tortillas, chips & salsa.
+CAMARONES AL MOJO DE AJO$9.95Sauteed shrimp with garlic. Served with rice, beans, tortillas, chips & salsa.
+CAMARONES A LA MEXICANA$9.95Shrimps with tomatoes, onions, and hot peppers. Served with rice, beans, tortillas, chips & salsa.
+
+Low Cholesterol Platters
+GRILLED QUESADILLA$9.99Served with vegetables, rice, beans, tortillas, chips & salsa.
+GRILLED SHRIMP$9.9Served with vegetables, rice, beans, tortillas, chips & salsa.
+GRILLED CHICKEN$9.99served with vegetables, rice, beans, tortillas, chips & salsa.
+GRILLED STEAK$9.99served with vegetables, rice, beans, tortillas, chips & salsa
+
+Kids Menu
+RICE AND BEANS$4.95
+CHEESE QUESADILLA$5.95
+CHICKEN FINGERS$5.95
+GRILLED CHEESE$5.95
+
+Beverages
+Mexican nectars-mango, apple, guava, tamarind, peach, pineapple, & strawberry$1.50
+MEXICAN SODASLime, tamarlnd, grapefruit, mandarin, pineapple, fruit punch, guava sicirol, and sangria.$1.50
+LECHE (MILK)$1.25
+TE (HOT TEA)$1.25
+SNAPPLE ICED TEA$1.50
+JUMEX$1.50
+
+Beverages
+BOTTLED SODA$1.99
+BOTTLED WATER$1.99
+BOTTLED GATORADE$1.99
 
 
 
 
 
 
-SOup Co
+
+
+Soup Co
 Salads
 Dressing choices: asian sesame, ranch, oil and vinegar, balsamic blue cheese, balsamic raspberry
 NEW ENGLAND COBB SALAD$6.99 - $3.99
@@ -535,142 +543,6 @@ TEAS$1.50
 
 
 
-
-Taste of mexico
-
-
-Appetizers
-NACHOS$7.95
-(add $2.00 for chicken or beef).
-GUACAMOLE WITH CHIPS & SALSA$7.95
-PICO DE GALLO WITH CHIPS$6.95
-FRENCH FRIES WITH CHEESE$5.95
-Salads
-(With lemon juice, salt, & black pepper).
-ENSALADA DEL REY$8.95
-(king's salad-lettuce, onions, carrots, & tomatoes, with chicken of beef).
-ENSALADA MEXICANA$7.95
-(mexican salad-lettuce, tomatoes, onions, & avocado).
-ENSALADA RANCHERA$7.95
-(ranchera salad-lettuce, tomatoes, cucumber, & avocado).
-Tacos
-(With onions, cilantro, tomatoes, & mexican cheese).
-3 TACOS DE POLLO$7.95
-(chicken tacos).
-3 TACOS DE RES$7.95
-(shredded beef tacos).
-3 TACOS DE CHORIZO$7.95
-(mexican style sausage tacos).
-3 TACOS AL PASTOR$7.95
-(marinated pork tacos).
-Burritos
-(With lettuce, tomatoes, onions, mexican cheese, & sour cream).
-BURRITO DE RES O POLLO$7.95
-(beef or chicken burrito with rice, beans, & cheese).
-BURRITO ESPECIAL AL PASTOR O DE CHORIZO$8.95
-(pork or mexican sausage burrito).
-Quesadillas
-(With lettuce, tomatoes, onions, mexican cheese, & sour cream).
-QUESADILLA DE RES O POLLO$7.95
-(beef or chicken quesadilla).
-QUESADILLA DE CHORIZO/ PASTOR$8.95
-(pork or mexican sausage quesadilla).
-SINCRONIZADA$7.95
-(ham quesadilla).
-Mexican Platters
-Served with rice, beans, tortillas, chips & salsa. Special vegetable quesadilla with chicken or beef.
-MOLE OAXAQUENO$9.95
-(grilled chicken breast w/ mole sauce).
-CHILES RELLENOS$9.95
-(stuffed peppers).
-PECHUGA EMPANIZADA$9.95
-(breaded chicken breast).
-BISTEC ENTOMATADO$9.95
-(steak with fried tomatoes).
-FAJITAS$9.95
-(choose from chicken, beef, or shrimp).
-BISTEC EMPANIZADO$9.95
-(breaded steak).
-BISTEC ENCEBOLLADO$9.95
-(steak with onions).
-BISTEC A LA MEXICANA$9.95
-(steak w/ tomatoes, onions, & peppers).
-BISTEC ASADO$9.95
-(grilled steak).
-CARNE ENCHILADA$9.95
-(pork steak).
-PECHUGA A LA MEXICANA$9.95
-(grilled chicken w/ tomatoes, onions, & hot peppers).
-ENCHILADAS VERDES$9.95
-(3 chicken enchiladas with green sauce, cilantro, onions, & tomatoes).
-ENCHILADAS ROJAS$9.95
-(3 chicken enchiladas w/ red or mole sauce w/ cilantro, onions, & tomatoes).
-QUESADILLA ESPECIAL CON$9.95
-vegetables y pollo, o carne asada.
-Vegetarian Platters
-(With lettuce, tomatoes, onions, mexican cheese, & sour cream).
-BURRITO (SPECIAL)$6.95
-(with rice, beans, and cheese).
-VEGETABLE BURRITO$7.95
-(with rice, beans, & cheese).
-VEGETABLE QUESADILLA$9.95
-3 VEGETABLE TOSTADAS$9.95
-(served with rice, and beans).
-VEGETABLE FAJITAS$9.95
-(served with rice & beans).
-3 VEGETABLES ENCHILADAS$9.95
-(served with rice and beans).
-3 CHEESE ENCHILADAS$9.95
-(served with rice and beans).
-Tostadasy Y Flautas
-Servido con arroz, frijcles, chips y salsa. Served with rice, beans, chips & salsa.
-3 TOSTADAS DE RES O POLLO$9.95
-(beef or chicken tostadas).
-3 TOSTADAS DE CHORIZO$9.95
-(mexican sausage tostadas)
-3 TOSTADAS AL PASTOR$9.95
-(marinated pork tostadas).
-4 FLAUTAS DE POLLO$9.95
-(rolled corn shells with chicken).
-Shrimp Platters
-Served with rice, beans, tortillas, chips & salsa.
-CAMARONES CON VEGETALES$9.95
-(shrimps w/ vegetables)
-CAMARONES AL MOJO DE AJO$9.95
-(shrimp (sauteed) with garlic).
-CAMARONES A LA MEXICANA$9.95
-(shrimps with tomatoes, onions, & hot peppers).
-Low Cholesterol Platters
-GRILLED QUESADILLA$9.99
-GRILLED SHRIMP$9.99
-served with vegetables, rice, beans, tortillas, chips & salsa.
-GRILLED CHICKEN$9.99
-served with vegetables, rice, beans, tortillas, chips & salsa.
-GRILLED STEAK$9.99
-served with vegetables, rice, beans, tortillas, chips & salsa
-Saturdays And Sundays
-MENUDO$7.95
-(beef tripe and hominy stew).
-POZOLE$7.95
-(chicken Hominy)
-Kids Menu
-RICE AND BEANS$4.95
-CHEESE QUESADILLA$5.95
-CHICKEN FINGERS$5.95
-GRILLED CHEESE$5.95
-Beverages
-Mexican nectars-mango, apple, guava, tamarind, peach, pineapple, & strawberry.
-REFRESCOS MEXICANOS$1.50
-MEXICAN SODAS
-lime, tamarlnd, grapefruit, mandarin, pineapple, fruit punch, guava sicirol, and sangria.
-LECHE (MILK)$1.25
-TE (HOT TEA)$1.25
-SNAPPLE ICED TEA$1.50
-JUMEX$1.50
-Beverages
-BOTTLED SODA$1.99
-BOTTLED WATER$1.99
-BOTTLED GATORADE$1.99
 
 
 
@@ -1157,9 +1029,39 @@ MAC & CHEESE WEDGES$3.50
 
 
 
+Contes
+Pizza
+Toppings: Pepperoni, Sausage, Onions, Mushrooms, Peppers, Garlic, Black Olives, Anchovies, *special : Everything But Anchovies And Olives
+Build Your Own
+Small Plain
+10.60
+Large
+21.50
 
+Sandwiches
+(all Sandwiches $6.50, Add $1 For Cheese And $0.50 For Fried Toppings)
+Meatball
+W/ cheese
+Sausage
+W/ cheese
+Steak Sandwich
+W/ cheese or fried onions, mushrooms, and peppers
+Italian Hoagie
 
-
+Sides
+Meatballs 4.00
+Sausage 4.00
+Salad
+House Vinaigrette 4.50
+French 4.50
+Blue Cheese 4.50
+Russian 4.50
+Pasta
+The Pasta Comes In A Small Or Regular Portion, Both Come With A House Salad And Bread. (small $9 W/ Meat $11 , Large $11 W/ Meat $13)
+Spaghetti
+W/ meatball or sausage
+Penne
+W/ meatball or sausage
 
 
 
