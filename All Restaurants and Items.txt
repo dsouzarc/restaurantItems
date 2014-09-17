@@ -441,91 +441,60 @@ BOTTLED GATORADE$1.99
 Soup Co
 Salads
 Dressing choices: asian sesame, ranch, oil and vinegar, balsamic blue cheese, balsamic raspberry
-NEW ENGLAND COBB SALAD$6.99 - $3.99
-Romaine, celery, bacon bits, tomatoes, avocados, egg.
-GAZPACHO SALAD$6.99 - $3.99
-Romaine, mozzarella cheese, fresh mint, cherry tomatoes, red onions, cucumbers, fresh basil.
-MEDITERRANEAN SALAD$6.99 - $3.99
-Romaine, feta cheese, black olives, chick peas, tomatoes, cucumbers, peppers, parmesan cheese, Italian seasonings.
-BEET AND GOAT CHEESE$6.99 - $3.99
-Romaine, red peppers, cabbage, beets and goat cheese. add $1.00
-CAESAR SALAD$6.99 - $3.99
-Purple cabbage, croutons, shredded parmesan cheese, egg.
-HOUSE SIDE SALAD$6.99 - $3.99
-Romaine, feta, onions, sprouts, parmesan, Italian seasonings, cherry tomato.
-BUILD YOUR OWN SALAD$8.99 - $4.99
-Well fill your bowl with the combination of delicious fresh items you choose.
-The Soups
-All soups served with oyster crackers. Multi grain roll $1.00 extra crackers 3/1.00
-THE SOUPS KIDS 8 OZ$3.99 - $9.99
-3-4 Servings
-LOBSTER OR CRAB BISQUE KIDS 8 OZ$5.99 - $18.99
-serves 2-4
+NEW ENGLAND COBB SALAD$6.99Romaine, celery, bacon bits, tomatoes, avocados, egg.
+GAZPACHO SALAD$6.99Romaine, mozzarella cheese, fresh mint, cherry tomatoes, red onions, cucumbers, fresh basil.
+MEDITERRANEAN SALAD$6.99Romaine, feta cheese, black olives, chick peas, tomatoes, cucumbers, peppers, parmesan cheese, Italian seasonings.
+BEET AND GOAT CHEESE$6.99Romaine, red peppers, cabbage, beets and goat cheese. add one dollar
+CAESAR SALAD$6.99Purple cabbage, croutons, shredded parmesan cheese, egg.
+HOUSE SIDE SALAD$6.99Romaine, feta, onions, sprouts, parmesan, Italian seasonings, cherry tomato.
+BUILD YOUR OWN SALAD$8.99
+THE SOUPS KIDS Eight OZ$3.99
+LOBSTER OR CRAB BISQUE KIDS Eight OZ$10.99Serves two people
+
 Our Favorite Sandwiches
-TOASTED TURKEY REUBEN SANDWICH$6.50
-Sauerkraut, swiss cheese, and russian dressing on sliced rye bread.
-TURKEY CLUB ON WHOLE WHEAT$6.50
-Turkey, bacon, lettuce, tomato, mayo, on a whole grain roll.
-EGGPLANT OR CHICKEN PARMESAN$6.50
-Fried, with marinara sauce, mozzarella cheese, and Italian seasonings on a whole grain roll.
-GAZPACHO SANDWICH$6.50
-Cucumber, cherry tomato, red onion, fresh basil, fresh mint, mozzarella cheese, olive oil and red wine vinegar on a whole grain roll.
-ITALIAN MAMA PROSCIUTTO$8.99
-Ham, provolone, prosciutto meat, tomatoes, Italian seasonings, oil & vinegar on a whole grain roll.
-GRILLED CHEESE OR BACON LETTUCE TOMATO$4.99
-On sourdough white bread. Add ham or bacon to grilled cheese $1.00
-Butcher's Block
-Pick your bread: multigrain whole wheat, roll, rye or sourdough bread. Pick your protein: oven gold roasted turkey prosciutto add $2.00 sweet sliced ham roast beef, tuna salad, chicken salad, egg salad. Pick your cheese: swiss, feta, mozzarella, american
+TOASTED TURKEY REUBEN SANDWICH$6.50Sauerkraut, swiss cheese, and russian dressing on sliced rye bread.
+TURKEY CLUB ON WHOLE WHEAT$6.50Turkey, bacon, lettuce, tomato, mayo, on a whole grain roll.
+EGGPLANT OR CHICKEN PARMESAN$6.50Fried, with marinara sauce, mozzarella cheese, and Italian seasonings on a whole grain roll.
+GAZPACHO SANDWICH$6.50Cucumber, cherry tomato, red onion, fresh basil, fresh mint, mozzarella cheese, olive oil and red wine vinegar on a whole grain roll.
+ITALIAN MAMA PROSCIUTTO$8.99Ham, provolone, prosciutto meat, tomatoes, Italian seasonings, oil & vinegar on a whole grain roll.
+GRILLED CHEESE OR BACON LETTUCE TOMATO$4.99On sourdough white bread. Add ham or bacon to grilled cheese $1.00
+
 BUILD YOUR OWN SANDWICH$6.50
-Frankfurters & More
-We serve boar's head brand 100% beef franks, and turkey franks, on a potato bun. Any hot dog as a combo with cookie or chips, and fountain soda, add $2.00
+Frankfurters & More$6.50We serve boar's head brand beef franks, and turkey franks, on a potato bun. Any hot dog as a combo with cookie or chips, and fountain soda, add two dollars
 PLAIN DOG$2.75
 CLASSIC DOG$2.75
-Yellow mustard, sauerkraut 100% beef or turkey
 CHILI DOG$3.25
-No explanation needed
-PRINCETON TIGER DOG$3.25
-Chipotle mayo, black olives and onions.
-NEWTON DOG$3.25
-Turkey dog, with avocados, tomatoes and pickles
-CHICAGO DOG$3.75
-Yellow mustard, green relish, chopped onions, tomato wedges pickle spear, sport peppers and a dash of celery salt.
-BUILD YOUR OWN DOG$3.75
-You choose the toppings. Add cheese to any dog, add $0.50
-Chicken Tenders
-CHICKEN TENDERS$3.50 - $4.99
-CHICKEN TENDER VALUE MEAL$6.99
-Three tenders, small fries, plus tea, lemonade or fountain soda.
+
+PRINCETON TIGER DOG$3.25Chipotle mayo, black olives and onions.
+NEWTON DOG$3.25Turkey dog, with avocados, tomatoes and pickles
+CHICAGO DOG$3.75Yellow mustard, green relish, chopped onions, tomato wedges pickle spear, sport peppers and a dash of celery salt.
+
+CHICKEN TENDERS$3.50
+CHICKEN TENDER VALUE MEAL$6.99Three tenders, small fries, plus tea, lemonade or fountain soda.
+
 Frites
-BELGIUM FRIES$3.50 - $4.99
-Tossed in sea salt and black pepper, served with ketchup or chipotle mayo. Add cheese $1.00, add chili $1.00
-Value Combo
-Choose any soup plus house side salad or half sandwich special.
-VALUE COMBO$7.99
-Choose any soup plus house side salad or half sandwich special. Regular soup plus house side salad or half sandwich special upsize your soup to a large, add $2.00.
-Daily Light Breakfast
-EGG SANDWICH$3.99
-On whole wheat, rye bread or sourdough. Add cheese, turkey, ham or bacon $0.50
+BELGIUM FRIES$3.50Tossed in sea salt and black pepper, served with ketchup or chipotle mayo. Add cheese (one dollar), add chili (one dollar)
+VALUE COMBO$7.99Choose any soup plus house side salad or half sandwich special. Regular soup plus house side salad or half sandwich special upsize your soup to a large, add two dollars
+EGG SANDWICH$3.99On whole wheat, rye bread or sourdough. Add cheese, turkey, ham or bacon $0.50
 MUFFINS$1.25
 DAILY FRUIT$1.00
 YOGURT PARFAITS$3.95
+
 Desserts
 FRESH BAKED COOKIES$1.00
 FRESH BAKED MUFFINS$1.25
-CHIPS$0.80 - $1.50
-Real Fruit Smoothies
-Build your own with your choice of two delicious fresh fruits and complimentary protein powder.
+CHIPS$0.80Real Fruit Smoothies
 STRAWBERRY$4.99
 BANANA$4.99
 BLUEBERRY$4.99
 PINEAPPLE$4.99
 MANGO$4.99
+
 Beverages
 FRESH BREWED ICED TEAS$1.50
 BOTTLED WATERS$1.50
-FLAVORED BOTTLES AND JUICES$2.25 - $2.50
+FLAVORED BOTTLES AND JUICES$2.25
 COFFEE$0.99
-Any size
 TEAS$1.50
 
 
