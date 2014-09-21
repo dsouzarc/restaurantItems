@@ -457,7 +457,7 @@ TURKEY CLUB ON WHOLE WHEAT$6.50Turkey, bacon, lettuce, tomato, mayo, on a whole 
 EGGPLANT OR CHICKEN PARMESAN$6.50Fried, with marinara sauce, mozzarella cheese, and Italian seasonings on a whole grain roll.
 GAZPACHO SANDWICH$6.50Cucumber, cherry tomato, red onion, fresh basil, fresh mint, mozzarella cheese, olive oil and red wine vinegar on a whole grain roll.
 ITALIAN MAMA PROSCIUTTO$8.99Ham, provolone, prosciutto meat, tomatoes, Italian seasonings, oil & vinegar on a whole grain roll.
-GRILLED CHEESE OR BACON LETTUCE TOMATO$4.99On sourdough white bread. Add ham or bacon to grilled cheese $1.00
+GRILLED CHEESE OR BACON LETTUCE TOMATO$4.99 sourdough white bread. Add ham or bacon to grilled cheese (one dollar)
 
 BUILD YOUR OWN SANDWICH$6.50
 Frankfurters & More$6.50We serve boar's head brand beef franks, and turkey franks, on a potato bun. Any hot dog as a combo with cookie or chips, and fountain soda, add two dollars
@@ -475,7 +475,7 @@ CHICKEN TENDER VALUE MEAL$6.99Three tenders, small fries, plus tea, lemonade or 
 Frites
 BELGIUM FRIES$3.50Tossed in sea salt and black pepper, served with ketchup or chipotle mayo. Add cheese (one dollar), add chili (one dollar)
 VALUE COMBO$7.99Choose any soup plus house side salad or half sandwich special. Regular soup plus house side salad or half sandwich special upsize your soup to a large, add two dollars
-EGG SANDWICH$3.99On whole wheat, rye bread or sourdough. Add cheese, turkey, ham or bacon $0.50
+EGG SANDWICH$3.99On whole wheat, rye bread or sourdough. Add cheese, turkey, ham or bacon (fifty cents)
 MUFFINS$1.25
 DAILY FRUIT$1.00
 YOGURT PARFAITS$3.95
@@ -517,14 +517,14 @@ TEAS$1.50
 
 Subway
 Salads and Wraps
-PEPPERCORN CAESAR WITH CHICKEN$3.59 - $6.59
-All-natural chicken, Italian three-cheese blend, tomatoes and peppercorn Caesar dressing. Choice of salad or wrap.
-COBB$3.59 - $6.59
-All-natural chicken, smoky bacon, hard-boiled eggs, bleu cheese crumbles, tomatoes and buttermilk ranch dressing. Choice of salad or wrap.
-HARVEST CHICKEN$3.59 - $6.59
-Honey-Dijon chicken, grapes, apples, dried cranberries, cucumbers, pumpkin seeds, tomatoes and acai vinaigrette. Choice of salad or wrap.
-MEDITERRANEAN CHICKEN$3.59 - $6.59
-All- natural chicken, Italian three-cheese blend, garbanzo beans, tomatoes, cucumbers, black olives, banana pepper rings and tzatziki dressing. Choice of salad or wrap.
+Six inchPEPPERCORN CAESAR WITH CHICKEN$3.59 - $6.59All-natural chicken, Italian three-cheese blend, tomatoes and peppercorn Caesar dressing. Choice of salad or wrap.
+Twelve inchPEPPERCORN CAESAR WITH CHICKEN$6.59All-natural chicken, Italian three-cheese blend, tomatoes and peppercorn Caesar dressing. Choice of salad or wrap.
+Six inchCOBB$3.59 - $6.59All-natural chicken, smoky bacon, hard-boiled eggs, bleu cheese crumbles, tomatoes and buttermilk ranch dressing. Choice of salad or wrap.
+Twelve inchCOBB$6.59All-natural chicken, smoky bacon, hard-boiled eggs, bleu cheese crumbles, tomatoes and buttermilk ranch dressing. Choice of salad or wrap.
+Six inchHARVEST CHICKEN$3.59 - $6.59Honey-Dijon chicken, grapes, apples, dried cranberries, cucumbers, pumpkin seeds, tomatoes and acai vinaigrette. Choice of salad or wrap.
+Twelve inchHARVEST CHICKEN$6.59Honey-Dijon chicken, grapes, apples, dried cranberries, cucumbers, pumpkin seeds, tomatoes and acai vinaigrette. Choice of salad or wrap.
+Six inchMEDITERRANEAN CHICKEN$6.59All- natural chicken, Italian three-cheese blend, garbanzo beans, tomatoes, cucumbers, black olives, banana pepper rings and tzatziki dressing. Choice of salad or wrap.
+Twelve inchMEDITERRANEAN CHICKEN$6.59All- natural chicken, Italian three-cheese blend, garbanzo beans, tomatoes, cucumbers, black olives, banana pepper rings and tzatziki dressing. Choice of salad or wrap.
 HONEY MUSTARD CHICKEN$3.59 - $6.59
 All-natural chicken, smoky bacon, all-natural cheddar, tomatoes, honey mustard dressing. Choice of salad or wrap.
 Deli Style Subs
