@@ -824,94 +824,94 @@ CHEESE DOG$2.00
 B.L.T.$3.00
 GRILLED CHEESE$2.50
 BIG FRANK$2.50
-Small PROVOLONE CHEESE, CAPICOLA, HAM, SALAMI$4.00
-Large PROVOLONE CHEESE, CAPICOLA, HAM, SALAMI$7.00
-Small PROVOLONE CHEESE, CAPICOLA, HAM$3.50
-Large PROVOLONE CHEESE, CAPICOLA, HAM$6.00
-Small PROVOLONE CHEESE, PRESSED HAM, SALAMI$3.50
-Large PROVOLONE CHEESE, PRESSED HAM, SALAMI$6.00
-Small BOLOGNA, PROVOLONE CHEESE$3.50
-Large BOLOGNA, PROVOLONE CHEESE$6.00
-Small PRESSED HAM, AMERICAN CHEESE$3.50
-Large PRESSED HAM, AMERICAN CHEESE$6.00
-Small PROVOLONE CHEESE, SALAMI$3.50
-Large PROVOLONE CHEESE, SALAMI$6.00
-Small TURKEY BREAST$4.00
-Large TURKEY BREAST$7.00
-Small ROAST BEEF$4.00
-Large ROAST BEEF$7.00
-Small TUNA SALAD$3.50
-Large TUNA SALAD$6.00
-Small HAM AND AMERICAN CHEESE$3.50
-Large HAM AND AMERICAN CHEESE$6.00
-Small HAM$3.50
-Large HAM$6.00
-Small AMERICAN AND PROVOLONE CHEESE$3.50
-Large AMERICAN AND PROVOLONE CHEESE$6.00
-Small EGG SALAD$3.50
-Large EGG SALAD$6.00
-Small Half CHICKEN SALAD$3.50
-Large Half CHICKEN SALAD$6.00
-Small TURKEY, HAM, CHEESE$4.50
-Large TURKEY, HAM, CHEESE$8.00
-Small CHEESE STEAK$4.00
-Large CHEESE STEAK$7.00
-Small CHICKEN CHEESE STEAK$4.50
-Large CHICKEN CHEESE STEAK$8.00
-Small STEAK$3.50
-Large STEAK$6.00
-Small BACON CHEESE STEAK$4.50
-Large BACON CHEESE STEAK$8.00
-Small PIZZA CHEESE STEAK$4.50
-Large PIZZA CHEESE STEAK$8.00
-Small BUFFALO CHICKEN CHEESE STEAK$4.50
-Large BUFFALO CHICKEN CHEESE STEAK$8.00
-Small WESTERN OMELET$3.50
-Large WESTERN OMELET$6.00
-Small SAUSAGE AND EGG OMELET$3.50
-Large SAUSAGE AND EGG OMELET$6.00
-Small BACON AND EGG OMELET$3.50
-Large BACON AND EGG OMELET$6.00
-Small CHEESE OMELET$3.50
-Large CHEESE OMELET$6.00
-Small MEATBALLS$3.50
-Large MEATBALLS$5.50
-Small SAUSAGE$3.50
-Large SAUSAGE$5.50
-Small VEAL PARMIGIANA$4.00
-Large VEAL PARMIGIANA$6.50
-Small HOT PASTRAMI$4.00
-Large HOT PASTRAMI$7.00
-Small FRIED FLOUNDER$4.00
-Large FRIED FLOUNDER$6.50
-Small CHICKEN PARMIGIANA$4.50
-Large CHICKEN PARMIGIANA$8.00
-Small EGGPLANT PARMIGIANA$4.00
-Large EGGPLANT PARMIGIANA$6.50
-Small GRILLED CHICKEN$4.50
-Large GRILLED CHICKEN$8.00
+Half PROVOLONE CHEESE, CAPICOLA, HAM, SALAMI$4.00
+Whole PROVOLONE CHEESE, CAPICOLA, HAM, SALAMI$7.00
+Half PROVOLONE CHEESE, CAPICOLA, HAM$3.50
+Whole PROVOLONE CHEESE, CAPICOLA, HAM$6.00
+Half PROVOLONE CHEESE, PRESSED HAM, SALAMI$3.50
+Whole PROVOLONE CHEESE, PRESSED HAM, SALAMI$6.00
+Half BOLOGNA, PROVOLONE CHEESE$3.50
+Whole BOLOGNA, PROVOLONE CHEESE$6.00
+Half PRESSED HAM, AMERICAN CHEESE$3.50
+Whole PRESSED HAM, AMERICAN CHEESE$6.00
+Half PROVOLONE CHEESE, SALAMI$3.50
+Whole PROVOLONE CHEESE, SALAMI$6.00
+Half TURKEY BREAST$4.00
+Whole TURKEY BREAST$7.00
+Half ROAST BEEF$4.00
+Whole ROAST BEEF$7.00
+Half TUNA SALAD$3.50
+Whole TUNA SALAD$6.00
+Half HAM AND AMERICAN CHEESE$3.50
+Whole HAM AND AMERICAN CHEESE$6.00
+Half HAM$3.50
+Whole HAM$6.00
+Half AMERICAN AND PROVOLONE CHEESE$3.50
+Whole AMERICAN AND PROVOLONE CHEESE$6.00
+Half EGG SALAD$3.50
+Whole EGG SALAD$6.00
+Half Half CHICKEN SALAD$3.50
+Whole Half CHICKEN SALAD$6.00
+Half TURKEY, HAM, CHEESE$4.50
+Whole TURKEY, HAM, CHEESE$8.00
+Half CHEESE STEAK$4.00
+Whole CHEESE STEAK$7.00
+Half CHICKEN CHEESE STEAK$4.50
+Whole CHICKEN CHEESE STEAK$8.00
+Half STEAK$3.50
+Whole STEAK$6.00
+Half BACON CHEESE STEAK$4.50
+Whole BACON CHEESE STEAK$8.00
+Half PIZZA CHEESE STEAK$4.50
+Whole PIZZA CHEESE STEAK$8.00
+Half BUFFALO CHICKEN CHEESE STEAK$4.50
+Whole BUFFALO CHICKEN CHEESE STEAK$8.00
+Half WESTERN OMELET$3.50
+Whole WESTERN OMELET$6.00
+Half SAUSAGE AND EGG OMELET$3.50
+Whole SAUSAGE AND EGG OMELET$6.00
+Half BACON AND EGG OMELET$3.50
+Whole BACON AND EGG OMELET$6.00
+Half CHEESE OMELET$3.50
+Whole CHEESE OMELET$6.00
+Half MEATBALLS$3.50
+Whole MEATBALLS$5.50
+Half SAUSAGE$3.50
+Whole SAUSAGE$5.50
+Half VEAL PARMIGIANA$4.00
+Whole VEAL PARMIGIANA$6.50
+Half HOT PASTRAMI$4.00
+Whole HOT PASTRAMI$7.00
+Half FRIED FLOUNDER$4.00
+Whole FRIED FLOUNDER$6.50
+Half CHICKEN PARMIGIANA$4.50
+Whole CHICKEN PARMIGIANA$8.00
+Half EGGPLANT PARMIGIANA$4.00
+Whole EGGPLANT PARMIGIANA$6.50
+Half GRILLED CHICKEN$4.50
+Whole GRILLED CHICKEN$8.00
 SOUVLAKI$4.00
 CHICKEN SOUVLAKI$4.00
 GYRO$4.00
 EMILY SPECIAL$4.50
-Small EL MEXICANO$5.00(cheese steak w/ chicken tacos, sour cream, hot sauce).
-Large EL MEXICANO$9.50(cheese steak w/ chicken tacos, sour cream, hot sauce).
-Small SANCHEZ$5.50(chicken cutlet, american cheese, mozzarella sticks & fries w/ sanchez sauce).
-Large SANCHEZ$10.00(chicken cutlet, american cheese, mozzarella sticks & fries w/ sanchez sauce).
-Small PHAT LADY$5.00(cheese steak w/ mozzarella sticks & fries).
-Large PHAT LADY$9.50(cheese steak w/ mozzarella sticks & fries).
-Small HEART STOP$5.00(cheese steak w/ bacon & eggs).
-Large HEART STOP$9.50(cheese steak w/ bacon & eggs).
-Small BLOCH$5.50(chicken parm w/ bacon & eggs).
-Large BLOCH$10.00(chicken parm w/ bacon & eggs).
-Small BIG CAT$6.50(4 bacon cheeseburgers w/ four eggs).
-Large BIG CAT$12.00(4 bacon cheeseburgers w/ four eggs).
-Small SHRIMP PO BOY$5.50(lettuce, tomatoes, tartar sauce & hot sauce).
-Large SHRIMP PO BOY$10.00(lettuce, tomatoes, tartar sauce & hot sauce).
-Small BODY BAG$6.50(italian hoagie, provolone, cheese steak, hash browns, eggs, ketchup or hot sauce).
-Large BODY BAG$12.00(italian hoagie, provolone, cheese steak, hash browns, eggs, ketchup or hot sauce).
-Small WAKE UP CALL$6.50(cheese steak, eggs, bacon, hash browns & pork roll).
-Large WAKE UP CALL$12.00(cheese steak, eggs, bacon, hash browns & pork roll).
+Half EL MEXICANO$5.00(cheese steak w/ chicken tacos, sour cream, hot sauce).
+Whole EL MEXICANO$9.50(cheese steak w/ chicken tacos, sour cream, hot sauce).
+Half SANCHEZ$5.50(chicken cutlet, american cheese, mozzarella sticks & fries w/ sanchez sauce).
+Whole SANCHEZ$10.00(chicken cutlet, american cheese, mozzarella sticks & fries w/ sanchez sauce).
+Half PHAT LADY$5.00(cheese steak w/ mozzarella sticks & fries).
+Whole PHAT LADY$9.50(cheese steak w/ mozzarella sticks & fries).
+Half HEART STOP$5.00(cheese steak w/ bacon & eggs).
+Whole HEART STOP$9.50(cheese steak w/ bacon & eggs).
+Half BLOCH$5.50(chicken parm w/ bacon & eggs).
+Whole BLOCH$10.00(chicken parm w/ bacon & eggs).
+Half BIG CAT$6.50(4 bacon cheeseburgers w/ four eggs).
+Whole BIG CAT$12.00(4 bacon cheeseburgers w/ four eggs).
+Half SHRIMP PO BOY$5.50(lettuce, tomatoes, tartar sauce & hot sauce).
+Whole SHRIMP PO BOY$10.00(lettuce, tomatoes, tartar sauce & hot sauce).
+Half BODY BAG$6.50(italian hoagie, provolone, cheese steak, hash browns, eggs, ketchup or hot sauce).
+Whole BODY BAG$12.00(italian hoagie, provolone, cheese steak, hash browns, eggs, ketchup or hot sauce).
+Half WAKE UP CALL$6.50(cheese steak, eggs, bacon, hash browns & pork roll).
+Whole WAKE UP CALL$12.00(cheese steak, eggs, bacon, hash browns & pork roll).
 FOUR PIECE CHICKEN WITH FRIES AND COLE SLAW$7.00
 SHRIMP BASKET WITH FRIES AND COLE SLAW$7.00
 CHICKEN NUGGETS WITH FRIES$5.50

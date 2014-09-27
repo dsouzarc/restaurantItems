@@ -50,8 +50,16 @@ public class RestaurantItemtoJSON {
             
             //Item and description
             final String itemAndDescription = lineItem.replaceAll("[.^0-9]+", "");
+            
             final String item = capitalizeString(itemAndDescription.substring(0, itemAndDescription.indexOf("$")));
-            final String description = capitalize(itemAndDescription.substring(itemAndDescription.indexOf("$") + 1));
+            
+            String description;
+            try { 
+              description = capitalize(itemAndDescription.substring(itemAndDescription.indexOf("$") + 1));
+            }
+            catch(Exception e) { 
+              description = "";
+            }
             
             //Cost of item
             //Find all digits and decimal point after first four chars, replace extra spaces, replace all periods with a space, 
@@ -73,6 +81,7 @@ public class RestaurantItemtoJSON {
             menu.put(restaurantItem);
           }
           catch(Exception e) { 
+            System.out.println(e.toString());
           }
         }
       }
