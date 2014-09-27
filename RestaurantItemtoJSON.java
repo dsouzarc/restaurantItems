@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -9,6 +10,7 @@ import org.json.JSONObject;
 public class RestaurantItemtoJSON { 
   
   private static final Scanner theScanner = new Scanner(System.in);
+  private static final DecimalFormat df = new DecimalFormat("#0.00");
   
   /** Creates a new textfile with the restaurant's name
     * Adds each of the restaurant's items as a JSONObject in a JSONArray to a JSONObject
@@ -67,12 +69,12 @@ public class RestaurantItemtoJSON {
             final String subCost = lineItem.substring(4).
               replaceAll("[^.0-9]+", "").replace(" ", "").replace(".", " ").trim().replace(" ", ".");
             //System.out.println("SUBCOST: " + subCost);
-            final double cost = Double.parseDouble(subCost.substring(0, subCost.length()));
+            final String cost = df.format(Double.parseDouble(subCost.substring(0, subCost.length())));
             
             //Create a JSONObject for each item with the following fields
             final JSONObject restaurantItem = new JSONObject();
             restaurantItem.put("name", item);
-            restaurantItem.put("price", String.valueOf(cost));
+            restaurantItem.put("price", cost);
             restaurantItem.put("description", description);
             
             System.out.println("Item: " + item + "\tCost: $" + cost + "\tDescription: " + description);
