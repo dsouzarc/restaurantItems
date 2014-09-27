@@ -44,13 +44,13 @@ Six BBQ Pork Ribs$11.00
 Twelve BBQ Pork Ribs$21.00
 Eighteen BBQ Pork Ribs$32.00
 Twenty-Four BBQ Pork Ribs$42.00
-30 BBQ Pork Ribs$53.00
+Thirty BBQ Pork Ribs$53.00
 
 Rotisserie Chicken
-Whole Chicken$8.00
-Half Chicken$4.00
-Half Breast$3.00
-Quarter Leg$2.50
+Whole Rotisserie Chicken$8.00
+Half Rotisserie Chicken$4.00
+Half Breast Rotisserie Chicken$3.00
+Quarter Leg Rotisserie Chicken$2.50
 
 Fried Chicken
 Four Pieces of Fried Chicken$6.00
@@ -228,7 +228,7 @@ Loaded Fries$5.99+
 
 Dipping Sauce
 Dipping Sauce$0.99
-Combination 5 Dipping Sauces$3.99
+Combination Five Dipping Sauces$3.99
 
 Kids Meals
 The Jr. Classic$5.49A smaller version of our famous Classic Cheeburger. Includes one side and a drink, and comes in a Cheeburger Cheeburger Classic Cruiser.
@@ -319,7 +319,7 @@ Slice Between Salad Small$7.75Romaine Lettuce, Grape Tomatoes, Kalamata Olives, 
 Garlic Bread Pizza$7.50Old World Dough made with Olive Oil, Fresh Garlic, Grated Cheese and Herbs
 
 Pizza
-Calzone$8.50Stuffed with Mozzarella and Ricotta Cheeses. (Add additional toppings from list)
+Calzone$8.50Stuffed with Mozzarella and Ricotta Cheeses.
 Stromboli$8.50Pepperoni, Sweet Italian Sausage, Prosciutto Ham, Red Onions and Fresh Mozzarella.
 Margherita Margaro PizzaSmall$11.00Fresh Mozzarella, Tomato Sauce, Fresh Basil.
 Margherita Margaro Pizza Large15.00Fresh Mozzarella, Tomato Sauce, Fresh Basil.
@@ -329,7 +329,6 @@ Niko's Pizza Small $14.00Arugula, Prosciutto, Fresh Mozzarella.
 Niko’s Pizza Large $18.00Arugula, Prosciutto, Fresh Mozzarella.
 Buffalo Chicken Pizza Small $14.00Chicken Breast, Fresh Mozzarella, Olive Oil, Special Sauce
 Buffalo Chicken Pizza Large $19.00Chicken Breast, Fresh Mozzarella, Olive Oil, Special Sauce
-
 Sanchez Pizza$15.00Chicken Cutlet, Fresh Mozzarella, Mozzarella Sticks, Hoagie Haven Sanchez Sauce.
 Sanches Pizza$20.00Chicken Cutlet, Fresh Mozzarella, Mozzarella Sticks, Hoagie Haven Sanchez Sauce.
 Bianca Pizza$13.00Ricotta Cheese, Olive Oil, Fresh Basil.
