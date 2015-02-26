@@ -1,0 +1,2 @@
+applicationId=R8cqnJAcOBAKW4Iw58rqFZEXCAxrLhwhouZ3Ocrx
+masterKey=KqsufrFleyfxo1Y7mHYjW7OSm81zDqcxPYrOPPQb
